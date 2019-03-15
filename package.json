@@ -1,0 +1,31 @@
+{
+  "name": "famhouse",
+  "version": "1.0.0",
+  "description": "this is for famhouse management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kotran88/famhouse.git"
+  },
+  "author": "kotran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kotran88/famhouse/issues"
+  },
+  "homepage": "https://github.com/kotran88/famhouse#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "firebase": "^5.9.0",
+    "jquery": "^3.3.1",
+    "querystring": "^0.2.0",
+    "uuid": "^3.2.1",
+    "vis": "^4.21.0"
+  }
+}
